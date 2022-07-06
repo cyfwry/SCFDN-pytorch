@@ -16,3 +16,4 @@ eval.py: The code for testing our network.
 
 The usage of parameters in train.py and eval.py can be seen the help of parser defined in code.
 
+Models with upsampling factors of 2, 3 and 4 have been uploaded to the `model` folder.
